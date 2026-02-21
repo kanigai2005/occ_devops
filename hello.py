@@ -1,1 +1,1 @@
-print("kanigai is a idiot")
+print("kanigai is a stupid")
