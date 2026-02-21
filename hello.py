@@ -1,0 +1,1 @@
+print("kanigai is a idiot")
