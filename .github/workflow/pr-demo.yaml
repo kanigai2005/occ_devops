@@ -1,0 +1,12 @@
+name: PR name workflow
+
+on:
+  pull_request
+
+jobs:
+  demo:
+    runs_on: ubuntu-latest
+
+    steps:
+      - name: Say hello
+        run: echo "workflow run during PR"
